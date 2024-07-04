@@ -23,7 +23,7 @@ THEN the data for each of these routes is displayed in a formatted JSON<br>
 WHEN I test API POST, PUT, and DELETE routes in Insomnia<br>
 THEN I am able to successfully create, update, and delete data in my database<br>
 
-## Installatation
+## Installation
 1. Clone the repository to your local machine.
 2. Open the terminal and navigate to the root directory of the project.
 3. Run the command "npm install" to install the necessary dependencies.
@@ -34,9 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database<br
 5. Run the command "npm run seed" to seed the database with test data.
 6. Run the command "npm start" to start the server.
 7. Open Insomnia and test the API routes.
-8. The four Insonmnia methods will use in the challenge is GET, POST, PUT and DELETE.
--GET routes to return all categories, all products, and all tags being tested in Insomnia Core.
--The POST, PUT, and DELETE routes for categories, products and tags being tested in Insomnia Core.
+8. The four Insonmnia methods will use in the challenge is GET, POST, PUT and DELETE. GET routes to return all categories, all products, and all tags being tested in Insomnia Core. 
 
 ## Screenshot
 ![Screenshot](./Insomnia.png)
@@ -45,9 +43,9 @@ THEN I am able to successfully create, update, and delete data in my database<br
 https://drive.google.com/file/d/1a4c_dL6w7E8wwG38xFVHZYjVw-15CMXN/view?usp=sharing
 
 ## Credits
-Class Lectures 
-Youtube - Object-Relational Mapping Tutorials
-Classmates - Thinh Nguyen and Faiza Haque
+Class Lectures<br>
+Youtube - Object-Relational Mapping Tutorials<br>
+Classmates - Thinh Nguyen and Faiza Haque<br>
 
 ## Questions
 If you have any questions or need further clarification, please don't hesitate to reach out to me at
