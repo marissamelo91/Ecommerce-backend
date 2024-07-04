@@ -34,7 +34,8 @@ THEN I am able to successfully create, update, and delete data in my database<br
 5. Run the command "npm run seed" to seed the database with test data.
 6. Run the command "npm start" to start the server.
 7. Open Insomnia and test the API routes.
-8. The four Insonmnia methods will use in the challenge is GET, POST, PUT and DELETE. GET routes to return all categories, all products, and all tags being tested in Insomnia Core. 
+8. The four Insomnia methods used is GET, POST, PUT and DELETE.<br>
+   GET routes to return all categories, all products, and all tags being tested in Insomnia Core. 
 
 ## Screenshot
 ![Screenshot](./Insomnia.png)
